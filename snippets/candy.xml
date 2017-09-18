@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- CandyRoms Additions -->
+    <project path="vendor/candy" name="CandyRoms/vendor_candy" remote="candy" />
+
+  <!-- Codeaurora Additions -->
+
+</manifest>
